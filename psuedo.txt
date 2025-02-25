@@ -1,0 +1,55 @@
+# An algorithm that asks a user to enter a positive number repeatedly until the user enters a zero value, then determines and outputs the largest of the numbers that were entered.
+
+request a positive integer from the user
+store positive integers in a variable called "numbers"
+request a second input of integers from user
+if the second input is equal to zero
+    print out highest value in "numbers"
+if the second input does not equal zero
+  request input until input is equal to zero
+  when input is equal to zero
+    print out highest value in "numbers"
+
+
+
+# An algorithm that request a user to input their name and then stores their name as a variable called first_name along with the phrase "Hello, World".
+
+  request user's name
+  store name in a variable called "first_name"
+  if the input is equal to "first_name"
+  print "first_name", "Hello World"
+
+
+
+
+# An algorithm that reads an arbitrary number of integers and then returns their arithmetic average.
+
+request integer from the user
+store integers in a variable called "numbers"
+calculate the average by adding all of the integers together then dividing by the total number of integers 
+print the average 
+
+
+
+#An algorithm that reads a grocery list and prints out the products(in alphabetical order) that are still left to buy.
+
+get grocery list
+filter items in "grocery list" for items that have not been bought
+if item in 'grocery list" is not bought 
+print items in alphabetical order 
+
+
+
+# An algorithm for the flowchart for the following page.
+
+request an input from the user 
+store input in a variable called "X"
+request a second input from user
+store second input in a variable called "Y"
+calculate the sum by adding "X" and "Y"
+store sum in a variable called "S"
+calculate the average by dividing "S" by two
+store the average in a variable called "A"
+calculate the product by multiplying "X" and "Y"
+store the product in a variable called "P"
+print out "S","A","P"
